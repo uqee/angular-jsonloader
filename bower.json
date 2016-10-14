@@ -1,0 +1,28 @@
+{
+  "name": "angular-jsonloader",
+  "homepage": "https://github.com/uqee/angular-jsonloader",
+  "description": "Angular directive to set current scope property with the external JSON data",
+  "authors": [
+    "Denis Zhbankov <denis.zhbankov@gmail.com>"
+  ],
+  "keywords": [
+    "json",
+    "lazy load",
+    "external data",
+    "angular"
+  ],
+  "main": [
+    "src/angular-jsonloader.js"
+  ],
+  "moduleType": [
+    "globals",
+    "angular"
+  ],
+  "ignore": [
+    "test"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  },
+  "license": "MIT"
+}
